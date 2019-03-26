@@ -1,0 +1,8 @@
+C:\Users\adam.berent\Documents\source\CodeCompareCore\CompareEngine\bin\Release\netcoreapp2.2\CompareEngine.deps.json
+C:\Users\adam.berent\Documents\source\CodeCompareCore\CompareEngine\bin\Release\netcoreapp2.2\CompareEngine.dll
+C:\Users\adam.berent\Documents\source\CodeCompareCore\CompareEngine\bin\Release\netcoreapp2.2\CompareEngine.pdb
+C:\Users\adam.berent\Documents\source\CodeCompareCore\CompareEngine\obj\Release\netcoreapp2.2\CompareEngine.csproj.CoreCompileInputs.cache
+C:\Users\adam.berent\Documents\source\CodeCompareCore\CompareEngine\obj\Release\netcoreapp2.2\CompareEngine.AssemblyInfoInputs.cache
+C:\Users\adam.berent\Documents\source\CodeCompareCore\CompareEngine\obj\Release\netcoreapp2.2\CompareEngine.AssemblyInfo.cs
+C:\Users\adam.berent\Documents\source\CodeCompareCore\CompareEngine\obj\Release\netcoreapp2.2\CompareEngine.dll
+C:\Users\adam.berent\Documents\source\CodeCompareCore\CompareEngine\obj\Release\netcoreapp2.2\CompareEngine.pdb

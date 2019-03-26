@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SettingsXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ComparisonOption>Slow</ComparisonOption>
+  <ComparisonType>Directory</ComparisonType>
+  <LeftPath />
+  <Path1>C:\Users\Public\Documents</Path1>
+  <Path2>C:\Users\Public\Documents</Path2>
+  <RightPath />  
+</SettingsXML>

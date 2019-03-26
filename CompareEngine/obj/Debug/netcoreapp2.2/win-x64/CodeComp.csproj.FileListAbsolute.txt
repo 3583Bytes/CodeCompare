@@ -1,0 +1,14 @@
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\bin\Debug\netcoreapp2.2\win-x64\hostpolicy.dll
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\bin\Debug\netcoreapp2.2\win-x64\hostfxr.dll
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\obj\Debug\netcoreapp2.2\win-x64\CodeComp.csproj.CoreCompileInputs.cache
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\obj\Debug\netcoreapp2.2\win-x64\CodeComp.AssemblyInfoInputs.cache
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\obj\Debug\netcoreapp2.2\win-x64\CodeComp.AssemblyInfo.cs
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\obj\Debug\netcoreapp2.2\win-x64\CodeComp.csprojAssemblyReference.cache
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\bin\Debug\netcoreapp2.2\win-x64\CompareEngine.exe
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\bin\Debug\netcoreapp2.2\win-x64\CompareEngine.deps.json
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\bin\Debug\netcoreapp2.2\win-x64\CompareEngine.runtimeconfig.json
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\bin\Debug\netcoreapp2.2\win-x64\CompareEngine.runtimeconfig.dev.json
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\bin\Debug\netcoreapp2.2\win-x64\CompareEngine.dll
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\bin\Debug\netcoreapp2.2\win-x64\CompareEngine.pdb
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\obj\Debug\netcoreapp2.2\win-x64\CompareEngine.dll
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\obj\Debug\netcoreapp2.2\win-x64\CompareEngine.pdb

@@ -1,0 +1,17 @@
+C:\Users\adam.berent\Documents\source\CodeCompareCore\CodeCompare\obj\Release\netstandard2.0\CodeCompare.csprojAssemblyReference.cache
+C:\Users\adam.berent\Documents\source\CodeCompareCore\CodeCompare\obj\Release\netstandard2.0\CodeCompare.Components.FastListView.FastListView.resources
+C:\Users\adam.berent\Documents\source\CodeCompareCore\CodeCompare\obj\Release\netstandard2.0\CodeCompare.Components.SummaryPanel.SummaryPanel.resources
+C:\Users\adam.berent\Documents\source\CodeCompareCore\CodeCompare\obj\Release\netstandard2.0\CodeCompare.Components.VistaButton.VistaButton.resources
+C:\Users\adam.berent\Documents\source\CodeCompareCore\CodeCompare\obj\Release\netstandard2.0\CodeCompare.Forms.About.resources
+C:\Users\adam.berent\Documents\source\CodeCompareCore\CodeCompare\obj\Release\netstandard2.0\CodeCompare.Forms.ComparisonProgress.resources
+C:\Users\adam.berent\Documents\source\CodeCompareCore\CodeCompare\obj\Release\netstandard2.0\CodeCompare.Forms.ComparisonResults.resources
+C:\Users\adam.berent\Documents\source\CodeCompareCore\CodeCompare\obj\Release\netstandard2.0\CodeCompare.Forms.ComparisonSummary.resources
+C:\Users\adam.berent\Documents\source\CodeCompareCore\CodeCompare\obj\Release\netstandard2.0\CodeCompare.Forms.ComparisonType.resources
+C:\Users\adam.berent\Documents\source\CodeCompareCore\CodeCompare\obj\Release\netstandard2.0\CodeCompare.Forms.EditLine.resources
+C:\Users\adam.berent\Documents\source\CodeCompareCore\CodeCompare\obj\Release\netstandard2.0\CodeCompare.Forms.FileIOProgress.resources
+C:\Users\adam.berent\Documents\source\CodeCompareCore\CodeCompare\obj\Release\netstandard2.0\CodeCompare.Forms.Options.resources
+C:\Users\adam.berent\Documents\source\CodeCompareCore\CodeCompare\obj\Release\netstandard2.0\CodeCompare.Forms.Register.resources
+C:\Users\adam.berent\Documents\source\CodeCompareCore\CodeCompare\obj\Release\netstandard2.0\CodeCompare.Properties.Resources.resources
+C:\Users\adam.berent\Documents\source\CodeCompareCore\CodeCompare\obj\Release\netstandard2.0\CodeCompare.Shared.BaseForm.resources
+C:\Users\adam.berent\Documents\source\CodeCompareCore\CodeCompare\obj\Release\netstandard2.0\CodeCompare.csproj.GenerateResource.cache
+C:\Users\adam.berent\Documents\source\CodeCompareCore\CodeCompare\obj\Release\netstandard2.0\CodeCompare.csproj.CoreCompileInputs.cache

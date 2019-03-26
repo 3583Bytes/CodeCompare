@@ -1,0 +1,13 @@
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\bin\Release\netcoreapp2.2.3\osx.10.11-x64\libhostpolicy.dylib
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\bin\Release\netcoreapp2.2.3\osx.10.11-x64\libhostfxr.dylib
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\bin\Release\netcoreapp2.2.3\osx.10.11-x64\CodeComp
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\bin\Release\netcoreapp2.2.3\osx.10.11-x64\CodeComp.deps.json
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\bin\Release\netcoreapp2.2.3\osx.10.11-x64\CodeComp.runtimeconfig.json
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\bin\Release\netcoreapp2.2.3\osx.10.11-x64\CodeComp.runtimeconfig.dev.json
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\bin\Release\netcoreapp2.2.3\osx.10.11-x64\CodeComp.dll
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\bin\Release\netcoreapp2.2.3\osx.10.11-x64\CodeComp.pdb
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\obj\Release\netcoreapp2.2.3\osx.10.11-x64\CodeComp.csproj.CoreCompileInputs.cache
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\obj\Release\netcoreapp2.2.3\osx.10.11-x64\CodeComp.AssemblyInfoInputs.cache
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\obj\Release\netcoreapp2.2.3\osx.10.11-x64\CodeComp.AssemblyInfo.cs
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\obj\Release\netcoreapp2.2.3\osx.10.11-x64\CodeComp.dll
+C:\Users\adam.berent\Documents\source\CodeComp\CodeComp\obj\Release\netcoreapp2.2.3\osx.10.11-x64\CodeComp.pdb

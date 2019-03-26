@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+	<GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <!--<RuntimeIdentifiers>win-x64; osx.10.11-x64</RuntimeIdentifiers>-->
+    <!--<RuntimeIdentifier>win-x64</RuntimeIdentifier>-->
+    <Authors>Adam Berent</Authors>
+    <Company>3583 Bytes</Company>
+    <Description>Simple Diff Tool</Description>
+    <Copyright>Adam Berent</Copyright>
+    <StartupObject>CodeCompare.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CompareEngine\CompareEngine.csproj" />
+  </ItemGroup>
+</Project>
+

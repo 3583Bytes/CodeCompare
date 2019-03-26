@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <!--<RuntimeIdentifiers>win-x64; osx.10.11-x64</RuntimeIdentifiers>-->
+    <!--<RuntimeIdentifier>win-x64</RuntimeIdentifier>-->
+    <Authors>Adam Berent</Authors>
+    <Company>3583 Bytes</Company>
+    <Description>Simple Diff Tool</Description>
+    <Copyright>Adam Berent</Copyright>
+    <StartupObject></StartupObject>
+    <AssemblyName>CompareEngine</AssemblyName>
+    <RootNamespace>CompareEngine</RootNamespace>
+    <ApplicationIcon />
+  </PropertyGroup>
+
+</Project>
