@@ -1,6 +1,8 @@
 # Code Compare
 
-Code Compare is a comparison and synchronization tool that compares text, source code, XML files and directories, then highlights differences and merges content via its visual interface. Code Compare can make version comparing and code reviews a much easier process.
+![My image](http://adamberent.com/wp-content/uploads/2019/03/CodeCompare.jpg)
+
+Code Compare is a diff tool that compares text, source code, XML files and directories, then highlights differences and merges content via its visual interface. Code Compare can make version comparing and code reviews a much easier process.
 
 Code Compare includes the following features:
 
