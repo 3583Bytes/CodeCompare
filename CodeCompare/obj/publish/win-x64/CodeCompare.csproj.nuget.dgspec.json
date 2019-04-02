@@ -11,13 +11,14 @@
         "projectName": "CodeCompare",
         "projectPath": "C:\\Users\\adam.berent\\Documents\\source\\CodeCompareCore\\CodeCompare\\CodeCompare.csproj",
         "packagesPath": "C:\\Users\\adam.berent\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adam.berent\\Documents\\source\\CodeCompareCore\\CodeCompare\\obj\\",
+        "outputPath": "C:\\Users\\adam.berent\\Documents\\source\\CodeCompareCore\\CodeCompare\\obj\\publish\\win-x64\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
+          "C:\\Users\\adam.berent\\Documents\\source\\CodeCompareCore\\CodeCompare\\NuGet.Config",
           "C:\\Users\\adam.berent\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -26,8 +27,8 @@
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
+          "https://dotnet.myget.org/F/dotnet-core/api/v3/index.json": {},
           "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
           "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
           "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
@@ -53,6 +54,10 @@
       "frameworks": {
         "netcoreapp3.0": {
           "dependencies": {
+            "ILLink.Tasks": {
+              "target": "Package",
+              "version": "[0.1.5-preview-1841731, )"
+            },
             "Microsoft.NETCore.Platforms": {
               "suppressParent": "All",
               "target": "Package",
@@ -66,11 +71,46 @@
               "version": "[3.0.0-preview3-27504-2, )",
               "autoReferenced": true
             },
+            "runtime.win-x64.Microsoft.AspNetCore.App": {
+              "include": "None",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview3-19153-02, )",
+              "autoReferenced": true
+            },
+            "runtime.win-x64.Microsoft.NETCore.App": {
+              "include": "None",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview3-27503-5, )",
+              "autoReferenced": true
+            },
             "runtime.win-x64.Microsoft.NETCore.DotNetAppHost": {
               "include": "None",
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.0.0-preview3-27503-5, )",
+              "autoReferenced": true
+            },
+            "runtime.win-x64.Microsoft.NETCore.DotNetHostPolicy": {
+              "include": "None",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview3-27503-5, )",
+              "autoReferenced": true
+            },
+            "runtime.win-x64.Microsoft.NETCore.DotNetHostResolver": {
+              "include": "None",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview3-27503-5, )",
+              "autoReferenced": true
+            },
+            "runtime.win-x64.Microsoft.WindowsDesktop.App": {
+              "include": "None",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview3-27504-2, )",
               "autoReferenced": true
             }
           },
@@ -79,6 +119,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     },
@@ -139,6 +184,48 @@
               "target": "Package",
               "version": "[3.0.0-preview3-27504-2, )",
               "autoReferenced": true
+            },
+            "runtime.win-x64.Microsoft.AspNetCore.App": {
+              "include": "None",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview3-19153-02, )",
+              "autoReferenced": true
+            },
+            "runtime.win-x64.Microsoft.NETCore.App": {
+              "include": "None",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview3-27503-5, )",
+              "autoReferenced": true
+            },
+            "runtime.win-x64.Microsoft.NETCore.DotNetAppHost": {
+              "include": "None",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview3-27503-5, )",
+              "autoReferenced": true
+            },
+            "runtime.win-x64.Microsoft.NETCore.DotNetHostPolicy": {
+              "include": "None",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview3-27503-5, )",
+              "autoReferenced": true
+            },
+            "runtime.win-x64.Microsoft.NETCore.DotNetHostResolver": {
+              "include": "None",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview3-27503-5, )",
+              "autoReferenced": true
+            },
+            "runtime.win-x64.Microsoft.WindowsDesktop.App": {
+              "include": "None",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview3-27504-2, )",
+              "autoReferenced": true
             }
           },
           "imports": [
@@ -146,6 +233,11 @@
           ],
           "assetTargetFallback": true,
           "warn": true
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }

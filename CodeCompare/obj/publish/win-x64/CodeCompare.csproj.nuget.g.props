@@ -3,7 +3,7 @@
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
-    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">C:\Users\adam.berent\Documents\source\CodeCompareCore\CompareEngine\obj\project.assets.json</ProjectAssetsFile>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">C:\Users\adam.berent\Documents\source\CodeCompareCore\CodeCompare\obj\publish\win-x64\project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
     <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\adam.berent\.nuget\packages\;C:\ProgramData\Xamarin\NuGet\;C:\Program Files\dotnet\sdk\NuGetFallbackFolder</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
@@ -11,5 +11,9 @@
   </PropertyGroup>
   <PropertyGroup>
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Pkgruntime_win-x64_Microsoft_NETCore_App Condition=" '$(Pkgruntime_win-x64_Microsoft_NETCore_App)' == '' ">C:\Users\adam.berent\.nuget\packages\runtime.win-x64.microsoft.netcore.app\3.0.0-preview3-27503-5</Pkgruntime_win-x64_Microsoft_NETCore_App>
+    <PkgILLink_Tasks Condition=" '$(PkgILLink_Tasks)' == '' ">C:\Users\adam.berent\.nuget\packages\illink.tasks\0.1.5-preview-1841731</PkgILLink_Tasks>
   </PropertyGroup>
 </Project>
